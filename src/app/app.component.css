@@ -1,0 +1,10 @@
+.container{
+  padding-bottom: 60px;
+}
+#sticky-footer {
+  background: #bebebe;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
